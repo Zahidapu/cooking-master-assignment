@@ -22,14 +22,14 @@ body {
 }
 .search-icon {
   margin-right: -35px;
-  color: lightgray;
+  color: gray;
   z-index: 1;
 }
 .search-field {
   width: 400px;
   height: 75px;
   padding: 0px 40px;
-  color: #3b2d64;
+  color: black;
   border: none;
   outline: none;
   border-radius: 35px 0px 0px 35px;
