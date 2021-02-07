@@ -98,7 +98,7 @@ body {
   width: 500px;
   height: auto;
   border-radius: 5px;
-  background-color: white;
+  background-color: rgba(211, 211, 211,0.5);
 }
 .food-details img {
   margin-top: -40px;
@@ -121,7 +121,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   margin: 5px 0px;
-  color: gray;
+  color: black;
 }
 .details i {
   color: black;
